@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: azure;
+    border: 2px solid red;
+    width: 98%;
+   
+}
+h3{
+    color: black;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+
+.heading{
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
+.intro-page{
+    
+    text-align: center;
+    font-style: oblique;
+}
+
+
+.background{
+    color: black;
+    
+}
+
+
+.background-text{
+    color: red;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+
+
+.subcation-heading-text{
+    color: red;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.section-heading-text{
+    color: red;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    
+}
+li{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
